@@ -6,7 +6,7 @@
 ## Equipe
 
 | Nome | RM |
-|------|-----|
+
 555506 - Arthur Abonizio 
 
 554907 - Gabriel Padula
