@@ -69,10 +69,7 @@ D13 (SCK)  ──────  SCK
 D11 (MOSI) ──────  MOSI
 D12 (MISO) ──────  MISO
 D9 (RST)   ──────  RST
-```
-> **Simulação online:** [Wokwi — Smart Gym RFID](https://wokwi.com) *(adicione o link do seu projeto Wokwi aqui)*
 
----
 
 ## Estrutura do Repositório
 
@@ -176,7 +173,6 @@ O sistema monitora três métricas principais:
 
 ## Vídeo Demonstrativo
 
-> **[Assista ao pitch técnico aqui](#)** *(adicione o link do YouTube/Drive)*
 
 **Conteúdo do vídeo (≤ 3 min):**
 - Demonstração do login via RFID integrado à visão computacional
